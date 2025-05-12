@@ -1,12 +1,12 @@
 # 🛍️ Dev Store
 
-**Dev Store** é um site estático moderno e responsivo desenvolvido com **HTML**, **CSS** e **JavaScript**, que simula uma vitrine digital para apresentação de produtos tecnológicos da Apple. O projeto destaca três itens de destaque: **Apple Watch Series 10**, **AirPods Max** e **Apple Vision Pro**, com navegação em carrossel, animações suaves e visual futurista.
+**Dev Store** é um site estático moderno e responsivo desenvolvido com **HTML**, **CSS** e **JavaScript**, que simula uma vitrine digital para apresentação de produtos tecnológicos da Apple. O projeto destaca três itens de destaque: **Apple Watch Series 10**, **AirPods Max** e **Apple Vision Pro!**
 
 ---
 
 ## 🔗 Link do Projeto
 
-Acesse o projeto clicando aqui: 👉 [Dev Store - GitHub Pages](https://renatorissato.github.io/dev-store)
+Acesse o projeto clicando aqui: 👉 [Dev Store](https://github.com/RenatoRissato/dev-store)
 
 ---
 
