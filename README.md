@@ -12,7 +12,7 @@ Acesse o projeto clicando aqui: 👉 [Dev Store](https://github.com/RenatoRissat
 
 ## 🖼️ Demonstração
 
-<img src="./img/Tela_inicial.png" alt="Print da tela Inicial" width="400"/>
+<img src="./img/Tela_inicial.png" alt="Print da tela Inicial" width="800"/>
 
 > Interface moderna com layout padronizado, animações suaves e carrossel funcional.
 
